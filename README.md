@@ -134,7 +134,7 @@ $conn = new mysqli(
     "localhost",
     "root",
     "",
-    "invincible"
+    "visual_novel"
 );
 ```
 
@@ -145,7 +145,7 @@ $conn = new mysqli(
 Abra o navegador:
 
 ```
-http://localhost/Invincible-Visual-Novel
+http://localhost/visual_novel
 ```
 
 ---
@@ -208,7 +208,7 @@ Este projeto foi desenvolvido para fins educacionais, com o objetivo de praticar
 **Matheus Cruz**
 
 GitHub:
-https://github.com/SEU-USUARIO
+https://github.com/Math-cruz12
 
 ---
 
