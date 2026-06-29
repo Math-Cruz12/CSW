@@ -19,6 +19,9 @@ O jogador acompanha a jornada de Mark Grayson e toma decisões que alteram o rum
 - Sistema de salvamento das escolhas
 - Página de conquistas do jogador
 - Final baseado nas decisões tomadas
+- <img width="1074" height="662" alt="cosquist" src="https://github.com/user-attachments/assets/7f69d84d-14fb-450f-af36-ca5d9bcc7087" />
+
+
 
 ---
 
